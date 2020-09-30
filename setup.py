@@ -10,7 +10,7 @@ setup(
     description='Open source solid rocket motor internal ballistics simulation',
     author=__author__,
     author_email=__author_email__,
-    licence='GPL3',
+    license='GPL3',
     long_description=long_description,
     packages=['OpenBurn'],
     package_dir={'OpenBurn': 'openburn'},
